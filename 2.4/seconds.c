@@ -1,3 +1,7 @@
+/*
+ *  A simple linux kernel module that creates a new entry in the /proc file-system
+ *  After adding it to the kernel, executing "cat /proc/seconds" will prompt the user with the number of seconds elapsed since introducing this module to the kernel"
+ */
 #include <linux/init.h>
 #include <linux/kernel.h>
 #include <linux/module.h>
