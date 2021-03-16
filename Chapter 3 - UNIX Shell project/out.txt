@@ -1,0 +1,5 @@
+total 32
+-rw-rw-r-- 1 worg worg    54 Mar 16 16:26 in.txt
+-rw-rw-r-- 1 worg worg     0 Mar 16 21:04 out.txt
+-rwxrwxr-x 1 worg worg 18032 Mar 16 21:04 shell
+-rw-rw-r-- 1 worg worg  5966 Mar 16 21:04 shell.c
