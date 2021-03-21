@@ -6,8 +6,8 @@
   *     cat /proc/pid
   *     e.g. output: command = [systemd] -- pid = [1] -- state = [1]
   */
-#include <init.h>
-#include <slab.h>
+#include <linux/init.h>
+#include <linux/slab.h>
 #include <linux/sched.h>
 #include <linux/module.h>
 #include <linux/kernel.h>
