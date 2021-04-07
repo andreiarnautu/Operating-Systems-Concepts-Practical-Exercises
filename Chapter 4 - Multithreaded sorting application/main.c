@@ -107,13 +107,14 @@ void sort(int* array, int len) {
 }
 
 void print_sorted_array(int* array, int len) {
+    //  This is here just as a sanity check. Lol.
     for (int i = 1; i < len; i++) {
         if (array[i] < array[i - 1]) {
             printf("The array is not sorted!...:(\n");
             return;
         }
     }
-    return;
+    
     //  Let's print the sorted array in a nice way.
     printf("The sorted array is:\n");
     for (int i = 0; i < len; i++) {
