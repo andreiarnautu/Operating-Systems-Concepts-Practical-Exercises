@@ -6,7 +6,7 @@ I have been passioned by operating systems for some time and decided to go throu
 
 Please note that I do not guarantee that my solutions are necessarily optimal. I am still learning.
 
-You can find a brief description for each solved exercise/project down below. Most of the exercises have their own README in their own subfolder, where more specific details are provided.
+You can find a brief description for each solved exercise/project down below. Most of the exercises (will) have their own README in their own subfolder, where more specific details are provided.
 
 ## Brief exercise description
 
@@ -33,7 +33,7 @@ You can find a brief description for each solved exercise/project down below. Mo
     * Same as **3.21**, but the child process saves the sequence in a shared-memory object.
 
 * **3.26**
-    * A program containing a short message exchange between two processes using ordinary pipes. 
+    * A program containing a short message exchange between two processes using ordinary pipes.
 
 * **3.27**
     * A file-copying program using ordinary pipes.
